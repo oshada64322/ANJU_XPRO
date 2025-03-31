@@ -40,7 +40,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~fQV3jbZL#j7ua7kUq-w9ixA2qSLsGLeSDw2oqvN7_KCBHi-51Blk",
+SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~mEUQGRBT#j6e0DA0l0A-5rJFLJLPofU1FfS9agkg9dPK9FvGjzjk",
 SUDO: process.env.SUDO || ["94717775628","94758775628"],
 PORT: process.env.PORT || "8000",
 FOOTER: process.env.FOOTER || "> QUEEN ANJU XPRO\n> Developed by Mr. oshada\n> GitHub Repository: github.com/Mrrashmika/QUEEN_ANJU_xPro\n🌟 Premium Version | Advanced Features | Secure & Reliable 🌟\n© 2025 QUEEN ANJU XPRO. All rights reserved.",
