@@ -5,7 +5,7 @@ services:
     runtime: docker
     region: Frankfurt
     branch: V-3.00
-    repo: https://github.com/Mrrashmika/QUEEN_ANJU_MD
+    repo: https://github.com/oshada/QUEEN_ANJU_MD
     #buildCommand: |
     #  apt-get update && \
     #  apt-get install -y ffmpeg && \
