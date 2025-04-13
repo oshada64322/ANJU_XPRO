@@ -3,11 +3,11 @@ const packageJson = require("./package.json"); // Get package details
 
 module.exports = {
   BOTNAME: "© 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ 💚",
-  OWNERNAME: "MR.RASHMIKA",
-  OWNERNUMBER: "94717775628",
+  OWNERNAME: "MD.OSHADA",
+  OWNERNUMBER: "+94 74 207 3449",
   FOOTER: `
 > QUEEN ANJU XPRO
-> Developed by Mr. Rashmika
+> Developed by oshada
 > GitHub Repository: github.com/Mrrashmika/QUEEN_ANJU_xPro
 Premium Version | Advanced Features | Secure & Reliable
 2025 QUEEN ANJU XPRO. All rights reserved.
